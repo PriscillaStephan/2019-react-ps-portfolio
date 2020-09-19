@@ -198,7 +198,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #009387;
 }
 
 /* ------------------------------------------------------------------ */
@@ -251,7 +251,7 @@ ul#nav li.current a {
   background: #444;
 }
 #about .download .button:hover {
-  background: #fff;
+  background: #009387;
   color: #2b2b2b;
 }
 #about .download .button i {
@@ -701,14 +701,13 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
-  background-color: #191919a6 !important;
+  background:linear-gradient(0deg, rgba(14, 132, 136, 0.562), rgba(0, 0, 0, 0.39)), url(../images/testimonials-bg.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
 
   position: relative;
-  min-height: 300px;
+  min-height: 650px;
   width: 100%;
   overflow: hidden;
 }
@@ -981,8 +980,8 @@ call-to-action .button {
   margin-left: 26%;
 }
 #contact button.submit:hover {
-  color: #0d0d0d;
-  background: #fff;
+  color: #fff;
+  background: #11abb0;
 }
 #contact span.required {
   color: #11abb0;
@@ -1052,7 +1051,7 @@ footer a:visited {
 }
 footer a:hover,
 footer a:focus {
-  color: #fff;
+  color: #11abb0;
 }
 
 /* copyright */
