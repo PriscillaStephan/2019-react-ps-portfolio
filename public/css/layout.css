@@ -1051,7 +1051,7 @@ footer a:visited {
 }
 footer a:hover,
 footer a:focus {
-  color: #11abb0;
+  color: #fff;
 }
 
 /* copyright */
@@ -1089,7 +1089,7 @@ footer .social-links li {
   margin: 0;
   padding: 0;
   margin-left: 42px;
-  color: #f06000;
+  color: #0f9095;
 }
 
 footer .social-links li:first-child {
