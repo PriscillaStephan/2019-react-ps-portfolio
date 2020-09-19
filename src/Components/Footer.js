@@ -21,19 +21,12 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul>
-              <li>Modified with love by Priscilla Stephan ♥️</li>
+              <li> Design by with love by Priscilla Stephan ♥️</li>
             </ul>
 
             <ul className="copyright">
               <li>
-                &copy; All credit goes to Tim Baker and the Clever Programmer
-                team.
-              </li>
-              <li>
-                Design by{" "}
-                <a title="Priscilla Stephan" href="">
-                  Styleshout
-                </a>
+                &copy; All credit goes to the Clever Programmer team.
               </li>
             </ul>
           </div>
